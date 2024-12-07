@@ -1,1 +1,1 @@
-print("hello.CSCS")
+print("hello! CSCS")
